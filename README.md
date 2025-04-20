@@ -60,8 +60,3 @@ When a vehicle is detected by the infrared sensor, the servo motor lifts the gat
 Include photos or videos of your assembled project and testing results in the `docs/` folder or within this repository.
 
 ---
-
-## 📬 Contact
-
-> Built with curiosity and caffeine by **Muhammad Farel Firdaus**  
-> Bandung, 2025
